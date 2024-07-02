@@ -5,6 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 mysql
+postgres:15-alpine
 ubuntu
 ghcr.io/requarks/wiki:2
 xhofe/alist:latest
