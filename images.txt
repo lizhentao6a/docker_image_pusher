@@ -8,6 +8,5 @@ mysql
 ubuntu
 ghcr.io/requarks/wiki:2
 xhofe/alist:latest
-xiaoyaliu/alist
 jeessy/ddns-go
 jc21/nginx-proxy-manager:latest
