@@ -28,3 +28,6 @@ nginx
 
 #程序员食谱
 ghcr.io/anduin2017/how-to-cook:latest
+
+#常用工具箱集合
+busybox
