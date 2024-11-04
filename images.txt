@@ -22,6 +22,9 @@ xhofe/alist:latest
 #动态解析ip
 jeessy/ddns-go
 
+xiaoyaliu/alist:latest
+xiaoyaliu/alist:hostmode
+
 #反向代理
 jc21/nginx-proxy-manager:latest
 nginx
