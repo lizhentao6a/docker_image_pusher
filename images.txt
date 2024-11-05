@@ -1,36 +1,8 @@
-mysql
-ubuntu
-
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-#用于构建镜像的很小的linux
-alpine
-
-#wikijs推荐的PostgreSQL数据库
-postgres:15-alpine
-
-#wikijs
-ghcr.io/requarks/wiki:2
-
-#alist官方
-xhofe/alist:latest
-
 #动态解析ip
 jeessy/ddns-go
-
-xiaoyaliu/alist:latest
-xiaoyaliu/alist:hostmode
-
-#反向代理
-jc21/nginx-proxy-manager:latest
-nginx
-
-#程序员食谱
-ghcr.io/anduin2017/how-to-cook:latest
-
-#常用工具箱集合
-busybox
